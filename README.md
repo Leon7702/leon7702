@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Hey, I'm Leon :)
 
-<!--
-**Leon7702/leon7702** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm an International Media & Computer Science student based in Berlin.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Recent Projects
+
+- [**LunarFit**](https://github.com/Leon7702/lunarfit)  
+  A web application supporting female athletes by aligning training with menstrual cycle insights. Built using Vue.js and Quasar, with a focus on accessibility and UX.
+
+- [**Project H20**](https://github.com/Leon7702/Project-H20)  
+  A Unity-powered 2D puzzle-platformer where players manipulate the states of water (ice, liquid, gas) to solve physics-based challenges in a retro-industrial world.
+
+- [**DIGIVOLUNTEER**](https://github.com/Leon7702/DIGIVOLUNTEER)  
+  A user-centered platform prototype simplifying digital volunteering through accessible micro-tasks. Designed and tested as part of a full UX design process.
+
+---
+
+> 💼 **Looking for Tech Internship Opportunities – Winter 2025**
+
